@@ -1,0 +1,40 @@
+query,expected
+hi,greeting
+hello,greeting
+how many students placed,placement
+how many students placed in tcs,placement
+how many students placed in wipro,placement
+how many students placed in infosys,placement
+count students in cognizant,placement
+count students in accenture,placement
+python topics,python
+java topics,java
+dsa topics,dsa
+sql topics,sql
+dbms topics,dbms
+operating systems topics,os
+aptitude topics,aptitude
+communication skills topics,communication
+cloud topics,cloud
+skills required for wipro,wipro
+skills required for tcs,tcs
+skills required for infosys,infosys
+skills required for cognizant,cognizant
+skills required for accenture,accenture
+wipro hiring process,hiring
+tcs hiring process,hiring
+infosys hiring process,hiring
+cognizant hiring process,hiring
+accenture hiring process,hiring
+resume tips,resume
+how to write resume,resume
+resume format for freshers,resume
+interview preparation tips,interview
+how to prepare for interview,interview
+technical interview preparation,interview
+common hr interview questions,interview
+what skills should i learn for placements,skills
+best skills for software jobs,skills
+what should i study for placements,skills
+tell me about python,python
+tell me about java,java
